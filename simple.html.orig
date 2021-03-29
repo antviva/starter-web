@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+	<title></title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 80px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			Master Content 
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Defined 2014</p>
+=======
+			Temp content 
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Tesla 2014</p>
+>>>>>>> temp_branch
+	</footer>
+</body>
+</html>
