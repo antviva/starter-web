@@ -1,3 +1,8 @@
 test 23 
+<<<<<<< Updated upstream
 1 
 3358 
+=======
+1010 
+335890 
+>>>>>>> Stashed changes
