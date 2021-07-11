@@ -4,7 +4,7 @@ import java.util.regex.Pattern;
 public class RegexExample {
     public static void main(String[] args) {
         Pattern p = Pattern.compile("[abc]*");
-        Matcher m = p.matcher("ab");
+        Matcher m = p.matcher("adidas");
         boolean b = m.matches();
 
         boolean b1 = Pattern.compile(".as.").matcher("cast").matches();
